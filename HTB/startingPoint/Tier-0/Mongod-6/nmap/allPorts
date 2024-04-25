@@ -1,0 +1,5 @@
+# Nmap 7.94SVN scan initiated Tue Apr 23 16:16:45 2024 as: nmap -p- -sS --open --min-rate 5000 -vvv -n -Pn -oG allPorts 10.129.228.30
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.129.228.30 ()	Status: Up
+Host: 10.129.228.30 ()	Ports: 22/open/tcp//ssh///, 27017/open/tcp//mongod///	Ignored State: closed (65533)
+# Nmap done at Tue Apr 23 16:16:58 2024 -- 1 IP address (1 host up) scanned in 13.87 seconds

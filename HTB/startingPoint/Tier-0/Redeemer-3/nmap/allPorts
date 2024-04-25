@@ -1,0 +1,5 @@
+# Nmap 7.94SVN scan initiated Tue Apr 23 03:58:14 2024 as: nmap -p- -sS --min-rate 5000 -vvv -n -Pn -oG allPorts 10.129.1.120
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.129.1.120 ()	Status: Up
+Host: 10.129.1.120 ()	Ports: 6379/open/tcp//redis///
+# Nmap done at Tue Apr 23 03:58:42 2024 -- 1 IP address (1 host up) scanned in 28.25 seconds

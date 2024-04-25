@@ -1,0 +1,23 @@
+/img                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/img/][0m
+/css                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/css/][0m
+/js                  [36m (Status: 301)[0m [Size: 335][34m [--> http://10.129.30.183/js/][0m
+/examples            [31m (Status: 503)[0m [Size: 402]
+/licenses            [33m (Status: 403)[0m [Size: 421]
+/inc                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/inc/][0m
+/%20                 [33m (Status: 403)[0m [Size: 302]
+/IMG                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/IMG/][0m
+/*checkout*          [33m (Status: 403)[0m [Size: 302]
+/CSS                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/CSS/][0m
+/Img                 [36m (Status: 301)[0m [Size: 336][34m [--> http://10.129.30.183/Img/][0m
+/JS                  [36m (Status: 301)[0m [Size: 335][34m [--> http://10.129.30.183/JS/][0m
+/phpmyadmin          [33m (Status: 403)[0m [Size: 421]
+/webalizer           [33m (Status: 403)[0m [Size: 421]
+/*docroot*           [33m (Status: 403)[0m [Size: 302]
+/*                   [33m (Status: 403)[0m [Size: 302]
+/con                 [33m (Status: 403)[0m [Size: 302]
+/http%3A             [33m (Status: 403)[0m [Size: 302]
+/**http%3a           [33m (Status: 403)[0m [Size: 302]
+/aux                 [33m (Status: 403)[0m [Size: 302]
+/*http%3A            [33m (Status: 403)[0m [Size: 302]
+/**http%3A           [33m (Status: 403)[0m [Size: 302]
+/%C0                 [33m (Status: 403)[0m [Size: 302]

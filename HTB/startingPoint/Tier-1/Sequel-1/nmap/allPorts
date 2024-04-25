@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Wed Apr 24 00:45:41 2024 as: nmap -p- --min-rate 5000 -sS -n -Pn --open -oG allPorts 10.129.249.23
+Host: 10.129.249.23 ()	Status: Up
+Host: 10.129.249.23 ()	Ports: 3306/open/tcp//mysql///	Ignored State: closed (65534)
+# Nmap done at Wed Apr 24 00:45:54 2024 -- 1 IP address (1 host up) scanned in 13.53 seconds

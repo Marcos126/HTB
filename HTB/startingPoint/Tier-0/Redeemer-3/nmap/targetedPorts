@@ -1,0 +1,11 @@
+# Nmap 7.94SVN scan initiated Tue Apr 23 03:56:39 2024 as: nmap -p6379 -sCV -vvv -oN targetedPortsOA 10.129.1.120
+Nmap scan report for 10.129.1.120
+Host is up, received reset ttl 63 (0.18s latency).
+Scanned at 2024-04-23 03:56:39 -03 for 7s
+
+PORT     STATE    SERVICE REASON      VERSION
+6379/tcp filtered redis   no-response
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Apr 23 03:56:46 2024 -- 1 IP address (1 host up) scanned in 7.42 seconds

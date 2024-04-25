@@ -1,0 +1,9 @@
+# Nmap 7.94SVN scan initiated Tue Apr 23 19:18:03 2024 as: nmap -p873 --script=rsync-list-modules -sV -oN targetedPorts 10.129.228.37
+Nmap scan report for 10.129.228.37
+Host is up (0.18s latency).
+
+PORT    STATE SERVICE VERSION
+873/tcp open  rsync   (protocol version 31)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Apr 23 19:18:16 2024 -- 1 IP address (1 host up) scanned in 13.36 seconds

@@ -1,0 +1,12 @@
+# Nmap 7.94SVN scan initiated Tue Apr 23 02:56:42 2024 as: nmap -p23 -sCV -vvv -n -Pn -oN targetPorts 10.129.25.201
+Nmap scan report for 10.129.25.201
+Host is up, received user-set (0.18s latency).
+Scanned at 2024-04-23 02:56:42 -03 for 24s
+
+PORT   STATE SERVICE REASON  VERSION
+23/tcp open  telnet  syn-ack Linux telnetd
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Apr 23 02:57:06 2024 -- 1 IP address (1 host up) scanned in 23.44 seconds

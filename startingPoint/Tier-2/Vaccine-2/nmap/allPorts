@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sat May  4 12:30:59 2024 as: nmap -p- -sS --min-rate 5000 -n -Pn -oG allPorts 10.129.89.51
+Host: 10.129.89.51 ()	Status: Up
+Host: 10.129.89.51 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (65532)
+# Nmap done at Sat May  4 12:31:15 2024 -- 1 IP address (1 host up) scanned in 16.03 seconds

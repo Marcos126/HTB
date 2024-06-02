@@ -1,5 +1,4 @@
-# Nmap 7.94SVN scan initiated Tue Apr 23 03:06:53 2024 as: nmap -p- -sS --min-rate 5000 -vvv -n -Pn -oG allPorts 10.129.81.118
-# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
-Host: 10.129.81.118 ()	Status: Up
-Host: 10.129.81.118 ()	Ports: 21/open/tcp//ftp///
-# Nmap done at Tue Apr 23 03:07:17 2024 -- 1 IP address (1 host up) scanned in 24.19 seconds
+# Nmap 7.94SVN scan initiated Sun May  5 03:32:01 2024 as: nmap -p- -sS --min-rate 5000 -n -Pn -oG allPorts 10.129.123.216
+Host: 10.129.123.216 ()	Status: Up
+Host: 10.129.123.216 ()	Ports: 21/open/tcp//ftp///	Ignored State: closed (65534)
+# Nmap done at Sun May  5 03:32:16 2024 -- 1 IP address (1 host up) scanned in 14.88 seconds
